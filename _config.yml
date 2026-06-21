@@ -1,0 +1,11 @@
+title: Krystian Bua
+email: krystianfilippomaria.bua@santannapisa.it
+description: Academic website of Krystian Bua
+url: ""
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
